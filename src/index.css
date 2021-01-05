@@ -8,7 +8,7 @@ body {
   font-family: 'montseratt', sans-serif;
 }
 
-.app {
+/* .app {
   background-image: url('./assets/cold-bg.jpg');
   background-size: cover;
   background-position: bottom;
@@ -17,7 +17,7 @@ body {
 
 .app.warm {
   background-image: url('./assets/warm-bg.jpg');
-}
+} */
 
 main {
   min-height: 100vh;
