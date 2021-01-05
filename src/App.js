@@ -3,9 +3,9 @@ import { GiSoccerBall } from "react-icons/gi";
 import axios from "axios";
 // import NavbarTwo from "../components/navbar-two";
 import { Input, Form, Select, Upload, Tabs, message } from "antd";
-const { TabPane } = Tabs;
 
 import { InboxOutlined } from "@ant-design/icons";
+
 
 const { Dragger } = Upload;
 const { Option } = Select;
